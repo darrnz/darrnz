@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**darrnz/darrnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 📊 Languages I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darrnz&layout=compact&theme=dracula)
+
+### Language Breakdown
+Based on my repositories:
+
+```
+TypeScript   ████████████░░░░░░░░ 40%
+JavaScript   ██████░░░░░░░░░░░░░░ 20%
+Solidity     ███░░░░░░░░░░░░░░░░░ 5%
+Handlebars   ██░░░░░░░░░░░░░░░░░░ 3%
+Other/HTML   ███████░░░░░░░░░░░░░ 32%
+```
+
+- **TypeScript**: 9 repositories
+- **JavaScript**: 6 repositories  
+- **Solidity**: 1 repository
+- **Handlebars**: 1 repository
+- **Other/No Language Detected**: 13 repositories
+
+## 🛠️ Technologies & Tools
+- **Frontend**: Angular, React, TypeScript
+- **Backend**: Node.js, JavaScript
+- **Blockchain**: Solidity
+- **Databases**: MongoDB, Firebase
+- **Tools**: Git, Bootstrap, Canvas
+
+---
+
+*Last updated: 2026-06-08*
