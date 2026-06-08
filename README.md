@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile!
 
-## 📊 Languages I Use
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darrnz&layout=compact&theme=dracula)
-
 ### Language Breakdown
 Based on my repositories:
 
